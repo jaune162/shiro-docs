@@ -1,5 +1,7 @@
 # Shiro快速开始指南
 
+---
+
 # Shiro的特性
 - 易学，shiro的学习成本相对于`Spring Security`来说是比较低的。而且shiro的源码中类名、接口名和方法名的命名非常的规范并且容易理解的，仅通过类名或方法名就能判断这个类或者方法的功能（名称即注释）。
 - 支持多种数据源JDBC、LDAP、ActiveDirectory等。

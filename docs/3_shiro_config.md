@@ -1,5 +1,7 @@
 # 让shiro环境跑起来--shiro配置
 
+---
+
 # 配置
 
 ## application.yml

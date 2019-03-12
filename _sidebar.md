@@ -1,5 +1,21 @@
 * [Home](/)
-* [课程简介](1_introduction.md)
+* [课程简介](docs/1_introduction.md)
 * 基础部分
-    * [Shiro快速开始指南](2_quickstart.md)
-    * [让shiro环境跑起来--shiro配置](3_shiro_config.md)
+    * [Shiro快速开始指南](docs/2_quickstart.md)
+    * [让shiro环境跑起来--shiro配置](docs/3_shiro_config.md)
+* 原理
+    * [Shiro运行原理--登录处理(1)](docs/4_Shiro运行原理--登录处理_1.md)
+    * [Shiro运行原理--登录处理(2)](docs/5_Shiro运行原理--登录处理_2.md)
+* 深入
+    * [使用数据库管理用户](docs/6_manage_user_with_db.md)
+    * [增加验证码功能](docs/7_captcha.md)
+    * [角色/权限拦截原理](docs/8_roles_authorization_filter.md)
+    * [使用数据库管理权限（1）](docs/9_manage_role_with_db_1.md)
+    * [使用数据库管理权限（2）](docs/10_manage_role_with_db_2.md)
+    * [自定义角色权限过滤器](docs/11_customer_role_filter.md)
+    * [使用注解控制权限](docs/12_annotation.md)
+    * [资源刷新](docs/13_refresh_resources.md)
+* 实战
+    * [无状态服务实现原理](docs/14_stateless.md)
+    * [类Session的无状态权限控制](docs/15_like_session.md)
+    * [免登陆的无状态权限控制](docs/16_stateless_role_control.md)

@@ -17,6 +17,19 @@
 
 对于未经允许，转载或用于商业用途的，作者保留追究其法律责任的权利。
 
+# 联系我
+
+- **QQ**: codestd@qq.com
+- **Email:**: codestd@qq.com
+
+# 我的其他作品
+
+- **CSDN:** https://blog.csdn.net/jaune161
+- **OSChina:** https://my.oschina.net/jaune161
+- **简书:** https://www.jianshu.com/u/3c9e8830fe19
+- **看云:** https://www.kancloud.cn/@jaune162
+- **GitBook:** https://legacy.gitbook.com/@jaune162
+
 ---
 
 # 关注我的公众号
